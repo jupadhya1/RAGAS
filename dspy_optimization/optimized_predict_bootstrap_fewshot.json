@@ -1,0 +1,73 @@
+{
+  "predict": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Does the company publish Climate Risk related disclosures (within Annual Reports, Sustainability / CSR Reports, ESG Reports, TCFD Report, Website), and are those disclosures TCFD-aligned?",
+        "context": "Yes, the company does publish Climate Risk related disclosures. Please see detailed source table. Disclosures are TCFD aligned.  FULL LINKS: https://www.shell.com/sustainability/our-climate-target/shell-energy-transition-strategy/ets-2024/_jcr_content/root/main/section/text/links/item0.stream/1711012433598/39c528a7d85179adb1189fdc065aacbda5aab89f/shell-energy-transition-strategy-2024.pdf#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2V0czIwMjRwZGYuaHRtbA  https://reports.shell.com/sustainability-report/2023/_assets/downloads/shell-sustainability-report-2023.pdf  https://reports.shell.com/annual-report/2023/_assets/downloads/shell-annual-report-2023.pdf       Source ID Source Title Source URL Source Year Level of Applicability   1 Energy Transition Strategy 2024  https://www.shell.com/sustainability/",
+        "answer_options": "",
+        "answer": "Yes, the company publishes Climate Risk related disclosures, and they are TCFD-aligned.",
+        "explanation": "The company has published several Climate Risk related disclosures which are aligned with the Task Force on Climate-related Financial Disclosures (TCFD) recommendations. These disclosures are available in reports such as the Shell Energy Transition Strategy 2024, the Shell Sustainability Report 2023, and the Shell Annual Report 2023. Links to these documents can be found on Shell's official website, indicating a commitment to transparency and adherence to TCFD guidelines. The availability of these documents suggests that the company actively follows TCFD-aligned practices in its climate risk reporting. Sources: Shell Energy Transition Strategy 2024, Shell Sustainability Report 2023, Shell Annual Report 2023."
+      },
+      {
+        "augmented": true,
+        "question": "Does the company respond to the Climate Change CDP (formerly known as Carbon disclosure project) for the last two financial years? If yes, how does CDP rate the quality of disclosure?",
+        "context": "CDP 2023 scored B",
+        "answer_options": "",
+        "answer": "Yes - The company responds to the Climate Change CDP and for the year 2023, the CDP rated the quality of the disclosure with a score of B.",
+        "explanation": "The context suggests that the company has been participating in the CDP disclosures as it provides a score for the CDP in 2023. The company received a score of B, indicating a good level of transparency and comprehensiveness in climate-related disclosures for that year. However, there is no information about the prior year to confirm if the company also disclosed in that year."
+      },
+      {
+        "augmented": true,
+        "question": "Is this CRA being conducted for a project?",
+        "context": "No, the CRA is not being conducted for a project - no Project Finance Scorecard [PEF, SF, CRE] in the Credit Mate. The CRA is for a Corporate.",
+        "answer_options": "",
+        "answer": "No, the CRA is not being conducted for a project.",
+        "explanation": "The context explicitly states that the CRA (Credit Risk Assessment) is not being conducted for a project because there is no Project Finance Scorecard present within the Credit Mate. It further clarifies that the assessment is for a Corporate entity instead."
+      },
+      {
+        "augmented": true,
+        "question": "BIODIVERSITY: Aside from climate-related matters, has the company made a public commitment and/or endorsed any initiatives related to biodiversity?",
+        "context": "C15.2 Commitment to not explore or develop in legally designated protected areas Commitment to secure Free, Prior and Informed Consent (FPIC) of Indigenous Peoples Other, please specify ((AR, p108) We have set commitments for biodiversity as part of our Respecting Nature goal. Our new projects in areas rich in biodiversity – critical habitats – will have a net positive impact on biodiversity, starting implementation in 2021.)",
+        "answer_options": "",
+        "answer": "Yes, the company has made a public commitment related to biodiversity.",
+        "explanation": "The company has made a public commitment to biodiversity as evidenced by their goal under the \"Respecting Nature\" initiative. They have committed that new projects in areas rich in biodiversity, termed as critical habitats, will have a net positive impact on biodiversity, with the implementation of this commitment starting in 2021. This effort is part of their broader environmental performance and sustainability goals as mentioned on page 108 of the Annual Report."
+      }
+    ],
+    "signature": {
+      "instructions": "Provide a detailed ESG answer with evidence-based explanation.\nGround every claim in the retrieved context. Cite page numbers and sources.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "CRA questionnaire question"
+        },
+        {
+          "prefix": "Context:",
+          "description": "Retrieved passages from Shell reports"
+        },
+        {
+          "prefix": "Answer Options:",
+          "description": "Available answer options (if any)"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "Selected answer option or direct answer"
+        },
+        {
+          "prefix": "Explanation:",
+          "description": "Evidence-based explanation with source citations"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.11",
+      "dspy": "3.2.0",
+      "cloudpickle": "3.1"
+    }
+  }
+}

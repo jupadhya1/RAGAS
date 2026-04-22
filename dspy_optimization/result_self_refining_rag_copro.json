@@ -1,0 +1,7 @@
+{
+  "status": "error",
+  "module": "self_refining_rag",
+  "optimizer": "copro",
+  "error": "COPRO.compile() missing 1 required keyword-only argument: 'eval_kwargs'",
+  "elapsed_s": 0.0
+}

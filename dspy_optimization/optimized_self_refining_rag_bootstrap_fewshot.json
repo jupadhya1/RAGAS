@@ -1,0 +1,190 @@
+{
+  "generate.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Does the company publish Climate Risk related disclosures (within Annual Reports, Sustainability / CSR Reports, ESG Reports, TCFD Report, Website), and are those disclosures TCFD-aligned?",
+        "context": "Yes, the company does publish Climate Risk related disclosures. Please see detailed source table. Disclosures are TCFD aligned.  FULL LINKS: https://www.shell.com/sustainability/our-climate-target/shell-energy-transition-strategy/ets-2024/_jcr_content/root/main/section/text/links/item0.stream/1711012433598/39c528a7d85179adb1189fdc065aacbda5aab89f/shell-energy-transition-strategy-2024.pdf#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2V0czIwMjRwZGYuaHRtbA  https://reports.shell.com/sustainability-report/2023/_assets/downloads/shell-sustainability-report-2023.pdf  https://reports.shell.com/annual-report/2023/_assets/downloads/shell-annual-report-2023.pdf       Source ID Source Title Source URL Source Year Level of Applicability   1 Energy Transition Strategy 2024  https://www.shell.com/sustainability/",
+        "answer_options": "",
+        "reasoning": "The context clearly states that Shell publishes various Climate Risk related disclosures across multiple types of reports, including their Annual Reports, Sustainability/CSR Reports, ESG Reports, and notably, a TCFD Report. These documents provide evidence that Shell is committed to reporting on climate risks and that their disclosures are aligned with the Task Force on Climate-related Financial Disclosures (TCFD) framework, which is frequently used to provide investors with information on the financial impacts of climate change.",
+        "answer": "Yes, the company publishes Climate Risk related disclosures, and these disclosures are TCFD-aligned.",
+        "explanation": "Shell's dedication to climate risk disclosure is evident across their various reports, such as the Energy Transition Strategy 2024, Sustainability Report 2023, and Annual Report 2023. The context confirms that these reports are aligned with the TCFD framework, which is a globally recognized standard for climate risk disclosure. The availability of these reports via the provided links further attests to Shell's transparency and compliance with TCFD recommendations."
+      },
+      {
+        "augmented": true,
+        "question": "Does the company respond to the Climate Change CDP (formerly known as Carbon disclosure project) for the last two financial years? If yes, how does CDP rate the quality of disclosure?",
+        "context": "CDP 2023 scored B",
+        "answer_options": "",
+        "reasoning": "The question asks whether the company has responded to the Climate Change CDP for the last two financial years and how the quality of their disclosure has been rated. The context provides specific information regarding the company's CDP score for 2023, which is a B. This score indicates participation and provides a clue about the level or quality of the company's climate change disclosures. To fully address the question, evidence of participation for the previous year (2022) would strengthen the response, but the quality rating provided for 2023 is sufficient to infer continued engagement.",
+        "answer": "Yes, the company responds to the Climate Change CDP. In 2023, the CDP rated the quality of disclosure with a score of B.",
+        "explanation": "The context clearly states that the company received a CDP score of B in 2023. The score implies that the company has been participating in the CDP and provides a moderate level of transparency in its climate-related disclosures. However, the context does not provide specific details about 2022; therefore, assuming this score reflects ongoing participation in both requested years is reasonable. Such a score suggests proactive engagement in climate disclosure but indicates there are also opportunities for improvement in transparency and action according to CDP standards."
+      },
+      {
+        "augmented": true,
+        "question": "Is this CRA being conducted for a project?",
+        "context": "No, the CRA is not being conducted for a project - no Project Finance Scorecard [PEF, SF, CRE] in the Credit Mate. The CRA is for a Corporate.",
+        "answer_options": "",
+        "reasoning": "The provided context clearly states that the CRA is not being conducted for a project as it mentions the absence of a Project Finance Scorecard in the Credit Mate, and specifies that the CRA is instead for a corporate analysis.",
+        "answer": "No, the CRA is not being conducted for a project.",
+        "explanation": "The context indicates that the CRA is intended for a corporate entity rather than a specific project. This is supported by the mention that there is no Project Finance Scorecard present, implying that the assessment is focused on corporate-level analysis rather than project-level finance or risk evaluation."
+      },
+      {
+        "augmented": true,
+        "question": "BIODIVERSITY: Aside from climate-related matters, has the company made a public commitment and/or endorsed any initiatives related to biodiversity?",
+        "context": "C15.2 Commitment to not explore or develop in legally designated protected areas Commitment to secure Free, Prior and Informed Consent (FPIC) of Indigenous Peoples Other, please specify ((AR, p108) We have set commitments for biodiversity as part of our Respecting Nature goal. Our new projects in areas rich in biodiversity – critical habitats – will have a net positive impact on biodiversity, starting implementation in 2021.)",
+        "answer_options": "",
+        "reasoning": "The context indicates that the company has made concrete commitments concerning biodiversity beyond climate-related initiatives. They have a specific respect for biodiversity named under their Respecting Nature goal, which includes ensuring that new projects in critically biodiverse areas have a net positive impact from 2021 onwards. This commitment signifies a public declaration related to biodiversity.",
+        "answer": "Yes, the company has made a public commitment related to biodiversity.",
+        "explanation": "The company's commitment to biodiversity is evident from its Respecting Nature goal, which specifies that new projects in areas rich in biodiversity, termed critical habitats, will have a net positive impact starting from 2021 (as referenced in their Annual Report, p108). This demonstrates that the company acknowledges the importance of biodiversity and has taken steps to publicly commit to its preservation and enhancement."
+      }
+    ],
+    "signature": {
+      "instructions": "Provide a detailed ESG answer with evidence-based explanation.\nGround every claim in the retrieved context. Cite page numbers and sources.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "CRA questionnaire question"
+        },
+        {
+          "prefix": "Context:",
+          "description": "Retrieved passages from Shell reports"
+        },
+        {
+          "prefix": "Answer Options:",
+          "description": "Available answer options (if any)"
+        },
+        {
+          "prefix": "Reasoning:",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "Selected answer option or direct answer"
+        },
+        {
+          "prefix": "Explanation:",
+          "description": "Evidence-based explanation with source citations"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "judge": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Does the company publish Climate Risk related disclosures (within Annual Reports, Sustainability / CSR Reports, ESG Reports, TCFD Report, Website), and are those disclosures TCFD-aligned?",
+        "context": "Yes, the company does publish Climate Risk related disclosures. Please see detailed source table. Disclosures are TCFD aligned.  FULL LINKS: https://www.shell.com/sustainability/our-climate-target/shell-energy-transition-strategy/ets-2024/_jcr_content/root/main/section/text/links/item0.stream/1711012433598/39c528a7d85179adb1189fdc065aacbda5aab89f/shell-energy-transition-strategy-2024.pdf#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2V0czIwMjRwZGYuaHRtbA  https://reports.shell.com/sustainability-report/2023/_assets/downloads/shell-sustainability-report-2023.pdf  https://reports.shell.com/annual-report/2023/_assets/downloads/shell-annual-report-2023.pdf       Source ID Source Title Source URL Source Year Level of Applicability   1 Energy Transition Strategy 2024  https://www.shell.com/sustainability/",
+        "answer": "Yes, the company publishes Climate Risk related disclosures, and these disclosures are TCFD-aligned.",
+        "score": "1.0",
+        "unsupported_claims": "None"
+      },
+      {
+        "augmented": true,
+        "question": "Does the company respond to the Climate Change CDP (formerly known as Carbon disclosure project) for the last two financial years? If yes, how does CDP rate the quality of disclosure?",
+        "context": "CDP 2023 scored B",
+        "answer": "Yes, the company responds to the Climate Change CDP. In 2023, the CDP rated the quality of disclosure with a score of B.",
+        "score": "0.5",
+        "unsupported_claims": "The answer lacks information about the company's response to the Climate Change CDP for the last two financial years, including the previous year to 2023."
+      },
+      {
+        "augmented": true,
+        "question": "Is this CRA being conducted for a project?",
+        "context": "No, the CRA is not being conducted for a project - no Project Finance Scorecard [PEF, SF, CRE] in the Credit Mate. The CRA is for a Corporate.",
+        "answer": "No, the CRA is not being conducted for a project.",
+        "score": "1.0",
+        "unsupported_claims": "None"
+      },
+      {
+        "augmented": true,
+        "question": "BIODIVERSITY: Aside from climate-related matters, has the company made a public commitment and/or endorsed any initiatives related to biodiversity?",
+        "context": "C15.2 Commitment to not explore or develop in legally designated protected areas Commitment to secure Free, Prior and Informed Consent (FPIC) of Indigenous Peoples Other, please specify ((AR, p108) We have set commitments for biodiversity as part of our Respecting Nature goal. Our new projects in areas rich in biodiversity – critical habitats – will have a net positive impact on biodiversity, starting implementation in 2021.)",
+        "answer": "Yes, the company has made a public commitment related to biodiversity.",
+        "score": "1.0",
+        "unsupported_claims": "None"
+      }
+    ],
+    "signature": {
+      "instructions": "Judge whether an answer is fully grounded in the provided context.\nCheck every claim against the context. Flag any unsupported statements.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "Original question"
+        },
+        {
+          "prefix": "Context:",
+          "description": "Retrieved context"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "Candidate answer to evaluate"
+        },
+        {
+          "prefix": "Score:",
+          "description": "Score 0.0-1.0 as a decimal string"
+        },
+        {
+          "prefix": "Unsupported Claims:",
+          "description": "List of claims not supported by context, or 'None'"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "refine.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Does the company respond to the Climate Change CDP (formerly known as Carbon disclosure project) for the last two financial years? If yes, how does CDP rate the quality of disclosure?",
+        "context": "CDP 2023 scored B\n\n[REFINEMENT FEEDBACK]\nPrevious answer was scored 0.50 for groundedness.\nUnsupported claims: The answer lacks information about the company's response to the Climate Change CDP for the last two financial years, including the previous year to 2023.\nProvide a more precise answer using ONLY information from the context above.",
+        "answer_options": "",
+        "reasoning": "The context provides information on the company's CDP score for the year 2023, which is a B. However, it does not provide specific information on whether the company responded to the Climate Change CDP in the previous year (2022). Without explicit information on the company's response in 2022, it is difficult to provide a comprehensive answer regarding the last two financial years.",
+        "answer": "The company responded to the Climate Change CDP in 2023 and received a score of B. There is no information provided in the context about the company's CDP response in the previous year.",
+        "explanation": "The context explicitly states \"CDP 2023 scored B,\" which indicates the company's response to the Climate Change CDP in 2023 and its associated rating. However, there is no information regarding the company's participation or score for the 2022 CDP, making it impossible to fully answer the question about the last two financial years exclusively based on the provided context."
+      }
+    ],
+    "signature": {
+      "instructions": "Provide a detailed ESG answer with evidence-based explanation.\nGround every claim in the retrieved context. Cite page numbers and sources.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "CRA questionnaire question"
+        },
+        {
+          "prefix": "Context:",
+          "description": "Retrieved passages from Shell reports"
+        },
+        {
+          "prefix": "Answer Options:",
+          "description": "Available answer options (if any)"
+        },
+        {
+          "prefix": "Reasoning:",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "Selected answer option or direct answer"
+        },
+        {
+          "prefix": "Explanation:",
+          "description": "Evidence-based explanation with source citations"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.11",
+      "dspy": "3.2.0",
+      "cloudpickle": "3.1"
+    }
+  }
+}

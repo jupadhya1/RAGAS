@@ -1,0 +1,7 @@
+{
+  "status": "error",
+  "module": "self_refining_rag",
+  "optimizer": "bootstrap_fewshot",
+  "error": "could not convert string to float: 'score'",
+  "elapsed_s": 0.2
+}

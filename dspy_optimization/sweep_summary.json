@@ -1,0 +1,70 @@
+{
+  "total_experiments": 9,
+  "successful": 0,
+  "results": [],
+  "errors": [
+    {
+      "status": "error",
+      "module": "chain_of_thought",
+      "optimizer": "miprov2",
+      "error": "MIPROv2 requires optional dependency 'optuna'. Install it with `pip install dspy[optuna]`.",
+      "elapsed_s": 2.28
+    },
+    {
+      "status": "error",
+      "module": "chain_of_thought",
+      "optimizer": "bootstrap_fewshot",
+      "error": "could not convert string to float: 'score'",
+      "elapsed_s": 0.13
+    },
+    {
+      "status": "error",
+      "module": "chain_of_thought",
+      "optimizer": "copro",
+      "error": "COPRO.compile() missing 1 required keyword-only argument: 'eval_kwargs'",
+      "elapsed_s": 0.0
+    },
+    {
+      "status": "error",
+      "module": "predict",
+      "optimizer": "miprov2",
+      "error": "MIPROv2 requires optional dependency 'optuna'. Install it with `pip install dspy[optuna]`.",
+      "elapsed_s": 0.16
+    },
+    {
+      "status": "error",
+      "module": "predict",
+      "optimizer": "bootstrap_fewshot",
+      "error": "could not convert string to float: 'score'",
+      "elapsed_s": 0.09
+    },
+    {
+      "status": "error",
+      "module": "predict",
+      "optimizer": "copro",
+      "error": "COPRO.compile() missing 1 required keyword-only argument: 'eval_kwargs'",
+      "elapsed_s": 0.0
+    },
+    {
+      "status": "error",
+      "module": "self_refining_rag",
+      "optimizer": "miprov2",
+      "error": "MIPROv2 requires optional dependency 'optuna'. Install it with `pip install dspy[optuna]`.",
+      "elapsed_s": 0.37
+    },
+    {
+      "status": "error",
+      "module": "self_refining_rag",
+      "optimizer": "bootstrap_fewshot",
+      "error": "could not convert string to float: 'score'",
+      "elapsed_s": 0.2
+    },
+    {
+      "status": "error",
+      "module": "self_refining_rag",
+      "optimizer": "copro",
+      "error": "COPRO.compile() missing 1 required keyword-only argument: 'eval_kwargs'",
+      "elapsed_s": 0.0
+    }
+  ]
+}
