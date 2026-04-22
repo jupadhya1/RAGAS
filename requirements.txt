@@ -1,0 +1,32 @@
+# Shell CRA AutoRAG + DSPy + RAGAS Pipeline
+# ==========================================
+
+# Core LLM
+openai>=1.30.0
+
+# DSPy 3.2.0 (all 9 modules + 7 optimizers)
+dspy>=3.2.0
+
+# RAGAS 0.4.3 (14 metrics)
+ragas>=0.4.0
+
+# AutoRAG
+autorag>=0.3.0
+
+# Data
+pandas>=2.0.0
+openpyxl>=3.1.0
+pyarrow>=14.0.0
+
+# PDF
+pypdf>=4.0.0
+
+# Retrieval
+rank-bm25>=0.2.2
+
+# Streamlit Dashboard
+streamlit>=1.35.0
+
+# LangChain (for RAGAS LLM wrapper)
+langchain-openai>=0.1.0
+langchain-core>=0.2.0
