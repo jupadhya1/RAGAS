@@ -1,0 +1,398 @@
+[
+  {
+    "question_id": "Q1.1",
+    "section": "1. Disclosures & Data Sources",
+    "question": "Does the company publish Climate Risk related disclosures (within Annual Reports, Sustainability / CSR Reports, ESG Reports, TCFD Report, Website), and are those disclosures TCFD-aligned?",
+    "answer": "Yes - Please see detailed source table",
+    "comments": "Yes, the company does publish Climate Risk related disclosures. Please see detailed source table. Disclosures are TCFD aligned.  FULL LINKS: https://www.shell.com/sustainability/our-climate-target/shell-energy-transition-strategy/ets-2024/_jcr_content/root/main/section/text/links/item0.stream/1711012433598/39c528a7d85179adb1189fdc065aacbda5aab89f/shell-energy-transition-strategy-2024.pdf#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2V0czIwMjRwZGYuaHRtbA  https://reports.shell.com/sustainability-report/2023/_assets/downloads/shell-sustainability-report-2023.pdf  https://reports.shell.com/annual-report/2023/_assets/downloads/shell-annual-report-2023.pdf       Source ID Source Title Source URL Source Year Level of Applicability   1 Energy Transition Strategy 2024  https://www.shell.com/sustainability/our-climate-target/shell-energy-transition-strategy  2024 Group   2 Sustainability Report 2023  https://reports.shell.com/sustainability-report/2023/  2023 Group   3 Annual Report 2023  https://report",
+    "source": "Source Year\tLevel of Applicability",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q1.2",
+    "section": "1. Disclosures & Data Sources",
+    "question": "Does the company respond to the Climate Change CDP (formerly known as Carbon disclosure project) for the last two financial years? If yes, how does CDP rate the quality of disclosure?",
+    "answer": "Yes - B",
+    "comments": "CDP 2023 scored B",
+    "source": "",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q1.3",
+    "section": "1. Disclosures & Data Sources",
+    "question": "Is this CRA being conducted for a project?",
+    "answer": "No, the CRA is not being conducted for a project - no Project Finance Scorecard [PEF, SF, CRE] in the Credit Mate. The CRA is for a Corporate.",
+    "comments": "No, the CRA is not being conducted for a project - no Project Finance Scorecard [PEF, SF, CRE] in the Credit Mate. The CRA is for a Corporate.",
+    "source": "Credit Mate",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q1.4",
+    "section": "1. Disclosures & Data Sources",
+    "question": "BIODIVERSITY: Aside from climate-related matters, has the company made a public commitment and/or endorsed any initiatives related to biodiversity?",
+    "answer": "Yes - Public commitments and publicly endorsed initiatives related to biodiversity and/or nature",
+    "comments": "C15.2 Commitment to not explore or develop in legally designated protected areas Commitment to secure Free, Prior and Informed Consent (FPIC) of Indigenous Peoples Other, please specify ((AR, p108) We have set commitments for biodiversity as part of our Respecting Nature goal. Our new projects in areas rich in biodiversity – critical habitats – will have a net positive impact on biodiversity, starting implementation in 2021.)",
+    "source": "CDP 2023",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q1.5",
+    "section": "1. Disclosures & Data Sources",
+    "question": "BIODIVERSITY: Has the company evaluated impacts and/or dependencies of its operating model on nature and biodiversity?",
+    "answer": "Yes - Only impacts have been evaluated",
+    "comments": "C15.3 Direct operations are covered.  Tools and methods: IBAT is used to screen for critical habitat. We access IBAT through our partnership with UNEP (Proteus). (www.shell.com/sustainability/our-approach/working-in-partnership) We undertake Impact Assessment for new projects, which relies on biodiversity indicators for site-based impacts. (www.shell.com/sustainability/our-approach/impact-assessment)",
+    "source": "CDP 2023",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q2.1",
+    "section": "2.Gross Physical Risk",
+    "question": "Please see below the known list of your company's operating locations we sourced from S&P. Please amend as necessary and provide the exact address and geolocation of the company's Top 50 most 'high-value' or most significant operating locations.",
+    "answer": "Add Location",
+    "comments": "",
+    "source": "",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q2.1.1",
+    "section": "2.Gross Physical Risk",
+    "question": "Please indicate if the operating locations listed are representative of the company's footprint.",
+    "answer": "The Shell Petroleum Company Limited, a holding company, through its subsidiaries, engages in oil and gas exploration and production. Hence it may not affect SPCL's direct business, however it may affect the operations of its subsidiaries.",
+    "comments": "The Shell Petroleum Company Limited, a holding company, through its subsidiaries, engages in oil and gas exploration and production. Hence it may not affect SPCL's direct business, however it may affect the operations of its subsidiaries.",
+    "source": "BCA Part 2",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q2.12",
+    "section": "2.Gross Physical Risk",
+    "question": "If provided geolocations are blank or not representative of entities' operating footprint, is the company's operating businesss asset-intensive or clearly susceptible to physical risk events.",
+    "answer": "Yes - Entity does not have direct assets affected, but supply chain is at risk of Physical events",
+    "comments": "The Shell Petroleum Company Limited, a holding company, through its subsidiaries, engages in oil and gas exploration and production. Hence it may not affect SPCL's direct business, however it may affect the operations of its subsidiaries.",
+    "source": "BCA Part 2",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q2.13",
+    "section": "2.Gross Physical Risk",
+    "question": "If provided geolocations are blank or not representative of entities' operating footprint, what is the Physical Risk ranking for the country of domicile as derived from the SCB Sovereign Heat Map or through detailed  weighted average calculation for assets or countries of operation?",
+    "answer": "The Shell Petroleum Company Limited, a holding company, through its subsidiaries, engages in oil and gas exploration and production. The company was incorporated in 1903 and is based in London, United Kingdom. The Shell Petroleum Company Limited operates as a subsidiary of The Shell Transport and Trading Company Limited.  As a holding Company its operations are dependent on the entire Group, hence using Global Average score and the score 83 is deemed high for physical risks.",
+    "comments": "The Shell Petroleum Company Limited, a holding company, through its subsidiaries, engages in oil and gas exploration and production. The company was incorporated in 1903 and is based in London, United Kingdom. The Shell Petroleum Company Limited operates as a subsidiary of The Shell Transport and Trading Company Limited.  As a holding Company its operations are dependent on the entire Group, hence using Global Average score and the score 83 is deemed high for physical risks.",
+    "source": "",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q2.14",
+    "section": "2.Gross Physical Risk",
+    "question": "Does the company PD default by 2030 in a 4 degree \"Hot House\" scenario? If not, what is the company's max change in probability of default score by 2030 in a 4 degree \"Hot House\" scenario?",
+    "answer": "No model output is available for this company so change in probability of the sector average is used. SCB's Internal Model for calculating climate-adjusted PDs, does not indicate a default under a 4-degree \"Hot House\" scenario by 2030. The max change in probability of default for O&G Producer sector by 2030 in a 4-degree \"Hot House\" scenario is 0%.  Model Info SCB's Internal Carbon Elasticity Model (CEM) together with the Distance-to-Default (DtD) Model and current IRB Scorecards are used to  es",
+    "comments": "No model output is available for this company so change in probability of the sector average is used. SCB's Internal Model for calculating climate-adjusted PDs, does not indicate a default under a 4-degree \"Hot House\" scenario by 2030. The max change in probability of default for O&G Producer sector by 2030 in a 4-degree \"Hot House\" scenario is 0%.  Model Info SCB's Internal Carbon Elasticity Model (CEM) together with the Distance-to-Default (DtD) Model and current IRB Scorecards are used to  estimate climate adjusted Probability of Default (PD). GTR is partly driven by estimated changes in a company’s Probability of Default (PD) from climate related impacts. PD changes are basis calculated using the CEM to estimate a change in the company's Revenue and Profits under various transition scenarios. These results are extrapolated to other financial variables and fed into the bank's existing IRB Scorecards and then IFRS9 PD calculations to estimate climate-adjusted PDs.  The CEM applies mi",
+    "source": "Sector Average",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q3.1",
+    "section": "3.Physical Risk Adaptation",
+    "question": "Does the company identify 'physical risk' as an emerging or existing risk to one or more of its business operations (either direct business operations only or wider value/supply chain as well)?",
+    "answer": "Yes - The company acknowledges physical risks for their direct business operations as well as for their value / supply chain",
+    "comments": "C2.2a (AR, p85) The potential physical effects of climate change may impact Shell’s assets, operations, supply chains, employees and markets.  Example of acute physical risk type: (AR, p260) Climate variability is considered in the design and operation of Shell's assets and infrastructure to minimise the risk of adverse incidents to Shell's employees and contractors, the communities where Shell operates, its equipment and infrastructure. Shell's new projects consider anticipated weather and climatic events in their design and Metocean (meteorology and oceanography) engineering experts are available, if required, to assist Shell's assets and project teams in the evaluation of physical risks.",
+    "source": "CDP 2023",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q3.1.1",
+    "section": "3.Physical Risk Adaptation",
+    "question": "Does the company assess the level of 'physical risk' impact on its underlying assets (or on disruption of business operations more generally) from a current/forward looking perspective? If so, is this done for direct business operations only or the wider value/supply chain?",
+    "answer": "Yes - the company assesses the potential impact of physical risk on a current / forward-looking basis for just their direct business operations",
+    "comments": "P.94 In 2023 we carried out a detailed review to assess the impact of a range of changing climatic conditions including changes in temperature, precipitation, wind and sea levels across segments and geographies for our significant assets. We used IPCC climate modelling data covering three future climate scenarios (RCP2.6, RCP4.5 and RCP8.5 [A]) across the time horizons 2025, 2030 and 2050. In the short to medium term, the risks were found to be related to factors that Shell is already aware of (whether or not related to climate change) and the assets are actively managing to mitigate, e.g. hurricane impacts in the US Gulf Coast, rising air temperatures in the Middle East and water scarcity in Europe and Asia. As an example, in recent years the Rhine river in Europe has seen historic lows during the summer months leading to challenges in the use of barges for transportation of our products. Dredging of harbours and investment in shallowerdraft barges have helped to mitigate the risk. In",
+    "source": "Annual Report and Accounts 2023",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q3.1.2",
+    "section": "3.Physical Risk Adaptation",
+    "question": "Does the company estimate a potential financial impact figure from physical risk on the company's revenues, expenditures, liabilities, capital or financing?",
+    "answer": "No - the company does not estimate the financial impact of physical risks",
+    "comments": "",
+    "source": "Sources listed in",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q3.2",
+    "section": "3.Physical Risk Adaptation",
+    "question": "Has the company taken any measures to date or made future plans to reduce, manage or adapt to current and/or future physical risks relevant to the business (and value/supply chain)?",
+    "answer": "Yes - the company has made current / future plans to manage or adapt to physical risks in the context of their direct business operations only",
+    "comments": "C2.2a Mitigation of physical risks, whether or not related to climate change, is considered and embedded in the design and construction of assets. The potential impact of physical changes comes from both acute and chronic physical risks. Acute risks, such as flooding and droughts, wildfires and more severe tropical storms, and chronic risks, such as rising temperatures and rising sea levels, could potentially impact some of our facilities, operations and supply chains. The frequency of these hazards and impacts is expected to increase in certain high-risk locations. Extreme weather events, whether or not related to climate change, could have a negative impact on our earnings, cash flows and financial conditions. We have performed a limited analysis addressing a range of typical climate change features for a select group of assets. As this is an emerging area of risk assessment, we aim to deepen our understanding of these potential future risks.",
+    "source": "CDP 2023",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q3.3",
+    "section": "3.Physical Risk Adaptation",
+    "question": "Does the company have insurance coverage (for damage cost and revenue disruption) to protect against all relevant physical risks?",
+    "answer": "Yes - the company has insurance coverage for 'damage cost' to protect against all relevant physical risk hazards",
+    "comments": "P.26 Our Group insurance companies (wholly owned subsidiaries) provide insurance coverage to Shell subsidiaries and entities in which Shell has an interest. These subsidiaries and entities may also insure a portion of their risk exposures with third parties, but such external insurance would not provide any material coverage in the event of a large-scale safety or environmental incident. Accordingly, in the event of a material incident, we would have to meet our obligations without access to material proceeds from third-party insurers. We have in the past incurred adverse impacts from events, such as Hurricane Ida in 2021. We may, in the future, incur significant losses from different types of hazard risks that are not insured with third-party insurers, potentially resulting in a material adverse effect on our earnings, cash flows and financial condition.",
+    "source": "Annual Report and Accounts 2023",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q4.1",
+    "section": "4.Gross Transition Risk",
+    "question": "Does the entity operate in a high carbon emitting sector, as covered by SCB`s Net Zero priority sectors?",
+    "answer": "Yes, the Client's sector, O&G Producer is covered by NZ commitments.  ISIC code of the client is 2200 - Extraction Of Oil.  Our client is not into extraction of Oil, it is just a holding company, however as major revenues derived for this holding entity is from its subsidiaries that are into oil extraction. Hence the sector and ISIC selection is based on its subsidiaries and Group's nature of business.",
+    "comments": "Yes, the Client's sector, O&G Producer is covered by NZ commitments.  ISIC code of the client is 2200 - Extraction Of Oil.  Our client is not into extraction of Oil, it is just a holding company, however as major revenues derived for this holding entity is from its subsidiaries that are into oil extraction. Hence the sector and ISIC selection is based on its subsidiaries and Group's nature of business.",
+    "source": "BCA Part 2",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q4.1.1",
+    "section": "4.Gross Transition Risk",
+    "question": "Where in this sector value chain does the Client operate?",
+    "answer": "Integrated / Diversified",
+    "comments": "The Shell Petroleum Company Limited, a holding company, through its subsidiaries, engages in oil and gas exploration and production. The company was incorporated in 1903 and is based in London, United Kingdom.   Major revenues derived for this holding entity is from its subsidiaries that are into oil extraction.",
+    "source": "S&P",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q4.1.2",
+    "section": "4.Gross Transition Risk",
+    "question": "What is the % split of Oil, LNG and Gas that is part of the companies operations, within the value chain?",
+    "answer": "No data available for assessment",
+    "comments": "",
+    "source": "Source URL",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q4.2",
+    "section": "4.Gross Transition Risk",
+    "question": "What sovereign policy measures, regional or international regulations (that may have material impact on company’s financials or business model) are planned or currently in place for the industry & region in which the company operates?",
+    "answer": "Policy measures are currently in place and expected to continue",
+    "comments": "The carbon price can have impact on the client as subsidiaries of the Group are operating all over the world and each subsidiary has to comply to them and based on the impact these subsidiaries face the same will be borne by our entity even though it is just a holding company.  UK Policies: In 2021, EU's current energy mix is 31% Oil, 25% Gas, 15% Renewables, 14% Nuclear, 12% Coal, 3% Other.  It is currently facing an energy crisis - high energy prices and energy security concerns due to Russia's invasion into Ukraine. This is paired with the decrease in electricity generation from nuclear power plants (more than half of state-owned nuclear reactors shut down due to corrosion and maintenance problems), and hydropower plants as a result of widespread drought.  The EU banned Russian coal imports from 10 Aug 2022. It will ban Russian crude imports from 5 Dec 2022 and Russian oil products from 5 Feb 2023. This will be challenging for EU given its dependence on Russia for fossil fuel energy",
+    "source": "SCB Climate Policy Tracker",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q4.4",
+    "section": "4.Gross Transition Risk",
+    "question": "Based on most recent emissions intensity and projecting to 2030, please see below for SCB's assessment of the company's 'temperature alignment' score. Please feel free to comment.",
+    "answer": "No model output is available for this company so the sector average temperature alignment is used. The sector average temperature alignment for O&G Producer sector at 2030 is <=3.2 degree and considered as Aligned to the IEA's Current Policies Scenario.  GTR is partly driven by a client’s estimated Temperature Alignment (TA). The TA is calculated using a client’s historical emissions and projecting these forward using transition scenario pathways. The output represents the implied temperature al",
+    "comments": "No model output is available for this company so the sector average temperature alignment is used. The sector average temperature alignment for O&G Producer sector at 2030 is <=3.2 degree and considered as Aligned to the IEA's Current Policies Scenario.  GTR is partly driven by a client’s estimated Temperature Alignment (TA). The TA is calculated using a client’s historical emissions and projecting these forward using transition scenario pathways. The output represents the implied temperature alignment the client would reach above pre-industrial levels.",
+    "source": "Sector Average",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q4.5",
+    "section": "4.Gross Transition Risk",
+    "question": "Does the company PD default by 2030 in a 2 degree orderly scenario? If not, what is the company's max change in probability of default score by 2030 in a 2 degree orderly scenario?",
+    "answer": "0.0805047089",
+    "comments": "As per ESGR Client Risk Management Team's advice, it should be noted that all other Shell cases are supported with Shell PLC data where PDs are much lower than the sector average. Hence it can be assumed that the client would actually get an AMBER grade if it was to take Shell Plc related PDs.  No model output is available for this company so change in probability of the sector average is used. SCB's Internal Model for calculating climate-adjusted PDs, does not indicate a default under a 2 degree orderly scenario by 2030. The max change in probability of default for O&G Producer sector by 2030 in a 2 degree orderly scenario is 8.05%.  Model Info SCB's Internal Carbon Elasticity Model (CEM) together with the Distance-to-Default (DtD) Model and current IRB Scorecards are used to  estimate climate adjusted Probability of Default (PD). GTR is partly driven by estimated changes in a company’s Probability of Default (PD) from climate related impacts. PD changes are basis calculated using the",
+    "source": "Sector Average",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q4.6",
+    "section": "4.Gross Transition Risk",
+    "question": "Does the company PD default by 2050 in a 2 degree orderly scenario? If not, what is the company's max change in probability of default score by 2050 in a 2 degree orderly scenario?",
+    "answer": "0.2030179958",
+    "comments": "As per ESGR Client Risk Management Team's advice, it should be noted that all other Shell cases are supported with Shell PLC data where PDs are much lower than the sector average. Hence it can be assumed that the client would actually get an AMBER grade if it was to take Shell Plc related PDs.  No model output is available for this company so change in probability of the sector average is used. SCB's Internal Model for calculating climate-adjusted PDs, does not indicate a default under a 2 degree orderly scenario by 2050. The max change in probability of default for O&G Producer sector by 2050 in a 2 degree orderly scenario is 20.30%.  Model Info SCB's Internal Carbon Elasticity Model (CEM) together with the Distance-to-Default (DtD) Model and current IRB Scorecards are used to  estimate climate adjusted Probability of Default (PD). GTR is partly driven by estimated changes in a company’s Probability of Default (PD) from climate related impacts. PD changes are basis calculated using th",
+    "source": "Sector Average",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q4.7",
+    "section": "4.Gross Transition Risk",
+    "question": "Does the company PD default by 2050 in a 2 degree disorderly scenario? If not, what is the company's max change in probability of default score by 2050 in a 2 degree disorderly scenario?",
+    "answer": "0.1490360534",
+    "comments": "As per ESGR Client Risk Management Team's advice, it should be noted that all other Shell cases are supported with Shell PLC data where PDs are much lower than the sector average. Hence it can be assumed that the client would actually get an AMBER grade if it was to take Shell Plc related PDs.  No model output is available for this company so change in probability of the sector average is used. SCB's Internal Model for calculating climate-adjusted PDs, does not indicate a default under a 2 degree disorderly scenario by 2050. The max change in probability of default for O&G Producer sector by 2050 in a 2 degree disorderly scenario is 14.90%.  Model Info SCB's Internal Carbon Elasticity Model (CEM) together with the Distance-to-Default (DtD) Model and current IRB Scorecards are used to  estimate climate adjusted Probability of Default (PD). GTR is partly driven by estimated changes in a company’s Probability of Default (PD) from climate related impacts. PD changes are basis calculated us",
+    "source": "Sector Average",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q5.1",
+    "section": "5.Credible Transition Plan",
+    "question": "Does the company identify 'transition risk' as an emerging or existing risk to one or more of its business operations (either direct business operations only or wider value/supply chain as well)?",
+    "answer": "Yes, the company acknowledges transition risks for their direct business operations as well as for their value / supply chain",
+    "comments": "P.92 (Medium and long time horizon) ￮ The transition to a low-carbon economy may lead to lower sales volumes and/or margins due to a general reduction or elimination of demand for oil and gas products, possibly resulting in underutilised or stranded oil and gas assets, and a failure to secure new opportunities. ￮ Changing preferences of investors and financial institutions could reduce access to and increase the cost of capital.  (Short, medium and long time horizon): The transition to a low-carbon economy will likely increase the cost of compliance for our assets and/or products, and may include restrictions on the use of hydrocarbons. The lack of net-zero-aligned global and national policies and frameworks increases the uncertainty around this risk.  (Short, medium and long time horizon): As societal expectations develop around climate change, there is a potential impact on Shell's licence to operate, reputation, brand and competitive position. This is likely to include litigation.",
+    "source": "Annual Report and Accounts 2023",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q5.2",
+    "section": "5.Credible Transition Plan",
+    "question": "Are there management and/or executive incentives in place, that relate to any climate change action?",
+    "answer": "C1.3 (AR, p80) Energy transition targets were part of the 2022 annual bonus scorecard (15% weighting) for almost all of Shell’s employees, as well as the 2022 Performance Share Plan (PSP) awards (10% weighting) and the 2022 Long-term Incentive Plan (LTIP) for senior executives (20% weighting), both vesting in 2025 (AR, p183) Shell’s journey in the energy transition weighted with 15% - Selling lower-carbon products 5% - Reducing operational emissions 5% - Partnering to decarbonise 5% (AR, p181) I",
+    "comments": "C1.3 (AR, p80) Energy transition targets were part of the 2022 annual bonus scorecard (15% weighting) for almost all of Shell’s employees, as well as the 2022 Performance Share Plan (PSP) awards (10% weighting) and the 2022 Long-term Incentive Plan (LTIP) for senior executives (20% weighting), both vesting in 2025 (AR, p183) Shell’s journey in the energy transition weighted with 15% - Selling lower-carbon products 5% - Reducing operational emissions 5% - Partnering to decarbonise 5% (AR, p181) In 2019, Shell introduced the Energy Transition performance condition to the LTIP. We were the first major energy company to introduce such a condition, which directly tied reward outcomes to Shell’s success in reducing net carbon emissions from all energy products sold, measured against our Net Carbon Intensity (NCI) target, as well as the delivery of the key strategic initiatives that will get us there. For the 2023 LTIP awards, we are increasing the weighting of this condition to 25%.",
+    "source": "CDP 2023",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q5.3",
+    "section": "5.Credible Transition Plan",
+    "question": "Has the company nominated a board member or board committee with explicit responsibility for oversight of climate change risk affecting the business activities?",
+    "answer": "C1.1a (AR, p163-164) Purpose The Safety, Environment and Sustainability Committee (SESCo) assists the Board in reviewing the policies, practices, targets and performance of Shell, primarily with respect to safety, environment including climate change, and broader sustainability.  Overview The Committee meets regularly to review and discuss a wide range of important topics. These include the safe condition and responsible operation of Shell’s assets and facilities, environmental protection and gr",
+    "comments": "C1.1a (AR, p163-164) Purpose The Safety, Environment and Sustainability Committee (SESCo) assists the Board in reviewing the policies, practices, targets and performance of Shell, primarily with respect to safety, environment including climate change, and broader sustainability.  Overview The Committee meets regularly to review and discuss a wide range of important topics. These include the safe condition and responsible operation of Shell’s assets and facilities, environmental protection and greenhouse gas emissions, any major incidents that impact or had the potential to impact safety and environmental performance, and progress towards meeting Shell’s energy transition targets. The Committee endorses the areas of the Shell annual assurance plan that are relevant to its Terms of Reference, which include Safety, Environment, Asset Management, and the non-financial elements of Shell’s Powering Progress strategy. The Committee also reviews the execution of these areas of the assurance pl",
+    "source": "CDP 2023",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q5.4",
+    "section": "5.Credible Transition Plan",
+    "question": "Does the company report its Scope 1,  2 and 3 greenhouse gas (GHG) emissions (if available, else carbon dioxide (CO2) emissions)?",
+    "answer": "Yes - Company reports Scope 1, 2 & 3 emissions",
+    "comments": "Company reports Scope 1, 2 & 3 emissions on p.79 Scope 3 - Categories 1, 3, 9 and 11 UNIT: Million tonnes CO2e             Absolute emissions (metric tons CO2e)           Details(metric tons CO2e) 2019 2020 2021 2022 2023 2024     Scope 1 Emission 70 63 63 51 50      Scope 2 Emissions - market based 10 8 8 7 7      Scope 2 Emissions - location based 11 10 9 8 8      Scope 2 Emissions - methodology not specified           Scope 3 Emission 2823 2386 2281 2084 2025      Emissions intensity (metric tons CO2e per unit of activity)           Details(metric tons CO2e) 2019 2020 2021 2022 2023 2024     Scope 1 Emission           Scope 2 Emissions - market based           Scope 2 Emissions - location based           Scope 2 Emissions - methodology not specified           Scope 3 Emission",
+    "source": "Sustainability Report 2023",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q5.5",
+    "section": "5.Credible Transition Plan",
+    "question": "Has the company set quantitative targets for reducing its Scope 1, 2 or 3 greenhouse gas (GHG) emissions (if available, else carbon dioxide (CO2) emissions) or any other quantifiable or long-term commitment(s) (Net-Zero) to action on climate change?",
+    "answer": "P.6 Net-zero emissions by 2050 (Scopes 1, 2 and 3).  Emissions from our own operations (Scope 1 and 2): Halving Scope 1 and 2 emissions by 2030 under operational control (2016 reference year). Eliminating routine flaring from Upstream operations by 2025. Maintain methane emissions intensity below 0.2% and achieve near-zero methane emissions by 2030.  Emissions from the products we sell (Scope 3):  Net carbon intensity (NCI) Introducing a range of 15-20% for our target to reduce NCI by 2030 (2016",
+    "comments": "P.6 Net-zero emissions by 2050 (Scopes 1, 2 and 3).  Emissions from our own operations (Scope 1 and 2): Halving Scope 1 and 2 emissions by 2030 under operational control (2016 reference year). Eliminating routine flaring from Upstream operations by 2025. Maintain methane emissions intensity below 0.2% and achieve near-zero methane emissions by 2030.  Emissions from the products we sell (Scope 3):  Net carbon intensity (NCI) Introducing a range of 15-20% for our target to reduce NCI by 2030 (2016 reference year).  Oil products ambition: Reduce customer emissions from the use of our oil products by 15-20% by 2030, Scope 3 Category 11 [C] (2021 reference year). [C] Customer emissions from the use of our oil products (Scope 3, Category 11) were 517 million tonnes carbon dioxide equivalent (CO2e) in 2023 and 569million tonnes CO2e in 2021            Target Baseline Year Target Type Unit Scope of Emissions Target Reduction Target Year Quantifiable? ST/LT Description  1 2016 Absolute Emission",
+    "source": "Shell Energy Transition Strategy 2024",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q5.5.1",
+    "section": "5.Credible Transition Plan",
+    "question": "What progress has the company made against quantitative targets in mentioned in Q5.5, in reducing greenhouse gas (GHG) emissions (if available, else carbon dioxide (CO2) emissions)?",
+    "answer": "The Group displays a positive progress towards GHG reduction targets.            Target Baseline Level Target Level Current Level Progress Bucket      1 16280 0 2090 0.8716 >50%      2 83 41 65 0.4337 >25%-50%      3 569 455 517 0.4561 >25%-50%",
+    "comments": "The Group displays a positive progress towards GHG reduction targets.            Target Baseline Level Target Level Current Level Progress Bucket      1 16280 0 2090 0.8716 >50%      2 83 41 65 0.4337 >25%-50%      3 569 455 517 0.4561 >25%-50%",
+    "source": "Shell Energy Transition Strategy 2024",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q5.6",
+    "section": "5.Credible Transition Plan",
+    "question": "Has the company set out a roadmap to change parts or all of its core business model / operations, to lower carbon options in order to reduce the emissions (or emissions intensity) of the entity?",
+    "answer": "Yes - Planned change in products mix to offer lower carbon alternatives.(e.g. Portfolio rebalance or Product change / divestment)|Yes - Planned change in production operations: Lower emission fuel types (e.g. Greening of energy mix)|Yes - Planned change in production operations: Improved efficiency of equipment(e.g. Electrifcation of operating assets / New Technology)|Yes - Planned change in supply chain to lower carbon emissions(e.g. Lower carbon suppliers / logistics / alternatives)|Yes - Implementation of Carbon, Capture, Storage & Utilization technology|Yes - Purchase of Carbon Credits|Yes - Other changes not affecting core operations(e.g. Solar panels, smart meters, electric logistic vehicles)",
+    "comments": "Option A (carbon credits): we offer and use high-quality carbon credits, including from nature-based solutions. We also buy carbon credits generated by other nature-based projects and by technologies. We carefully source and screen the credits we purchase and retire from the market (p. 34). Option C (supply chain): We encourage our suppliers to set emission ambitions and track performance, share best practice and exchange emissions data with their own supply chains. We are also developing plans to work with the 50 largest carbon emitters in our supply chain to create a shared vision and roadmap for decarbonization. Option D (efficiency): In 2023, we implemented a variety of measures to reduce the energy use and increase the energy efficiency of our operations. For example, at the Sarnia site in Canada: the existing reaction furnace was replaced with a new high-intensity burner (Annual Report, p. 117). Option E (portfolio rebalance): Shell will reduce emissions over time as our product ",
+    "source": "Shell Energy Transition Strategy 2024",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q5.6.1",
+    "section": "5.Credible Transition Plan",
+    "question": "With reference to the the plans made in Q5.6, will they have a meaningful impact on the core operating emissions of the company?",
+    "answer": "Yes - Meaningful impact towards meeting set targets by affecting majority of core operations",
+    "comments": "Shell plc as one of the largest Oil and Gas companies set ambitious GHG reduction targets that are supported with comprehensive transition strategy. Impact of this strategy is deemed meaningful as it encompass initiatives that drive the diversification of Group's portfolio, including focus on LNG business, renewable energy segment and CCUS technology. In 2023, Shell announced new target to reduce Scope 3, Category 11 emissions up to 20% by 2030. Shell declared to produce lower carbon fuels by repurposing refineries, marketing renewable energy sources and helping their customers to decarbonize.",
+    "source": "Shell Energy Transition Strategy 2024",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q5.6.2",
+    "section": "5.Credible Transition Plan",
+    "question": "With reference to the the plans made in Q5.6, has the company already made investment into the mentioned plans to transition to a less carbon intensive environment?",
+    "answer": "Yes -  Direct capital investment made toward the change",
+    "comments": "P.4 In total, we invested $5.6 billion in low-carbon solutions in 2023, which was 23% of our capital spending. We are spending $10-15 billion on low-carbon solutions between 2023 and 2025, making us a significant investor in the energy transition. With our focused approach, we believe our investments will have an important impact, allowing us to develop low-carbon solutions at increasingly affordable prices for our customers.  Sustainability Report 2023, p. 41: In 2023, we spent $1,287 million on research and development (R&D), compared with $1,067 million in 2022. We also started work on more than 270 R&D projects with universities, compared with more than 250 in 2022. Our R&D activities are key to achieving our net-zero emissions target. In 2023, our R&D expenditure on projects that contributed to decarbonisation was around $628 million, representing about 49% of our total R&D spend, compared with around 41% in 2022. This includes expenditure on reducing greenhouse gas emissions: • f",
+    "source": "Shell Energy Transition Strategy 2024",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q5.7",
+    "section": "5.Credible Transition Plan",
+    "question": "Has the company evaluated their transition strategy using climate change scenario modelling?",
+    "answer": "C2.3a AR, p99) There is no established standard for aligning an energy supplier’s decarbonisation targets with the temperature limit goal of the Paris Agreement. In the absence of a broadly accepted standard, we have developed our own approach for demonstrating Paris alignment by setting carbon intensity targets within a pathway derived from the IPCC SR 1.5 scenarios. This pathway is aligned with the more ambitious temperature goal of the Paris Agreement to limit global average temperature rise ",
+    "comments": "C2.3a AR, p99) There is no established standard for aligning an energy supplier’s decarbonisation targets with the temperature limit goal of the Paris Agreement. In the absence of a broadly accepted standard, we have developed our own approach for demonstrating Paris alignment by setting carbon intensity targets within a pathway derived from the IPCC SR 1.5 scenarios. This pathway is aligned with the more ambitious temperature goal of the Paris Agreement to limit global average temperature rise to 1.5°C above pre-industrial levels by 2100. When constructing the pathway, we started by filtering out certain scenarios to ensure that Shell’s targets are aligned with earlier action, and low-overshoot scenarios.  Shell has set a target to reduce the NCI of the energy products it sells by 20% by 2030. We believe this target is aligned with a 1.5°C pathway derived from the IPCC SR 1.5 scenarios. We also believe that the pace of change will vary around the world by region and by sector, taking ",
+    "source": "CDP 2023",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q5.8",
+    "section": "5.Credible Transition Plan",
+    "question": "Does the company use Internal Carbon Pricing for Strategic Planning and Analysis?",
+    "answer": "Yes - a Carbon price of 100+ US$ / tCO2e is used",
+    "comments": "C11.3a Shell PLC uses shadow internal carbon price in order to better navigate GHG regulations and stress test investments. Carbon price covers Scopes 1 and 2.  Actual price(s) used – maximum (currency as specified in C0.4 per metric ton CO2e) 121",
+    "source": "CDP 2023",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "S0.1",
+    "section": "0. Cover",
+    "question": "What sector is Shell Petroleum Company Limited classified under?",
+    "answer": "O&G Producer",
+    "difficulty": "easy",
+    "comments": "",
+    "source": "CRA Manual Analysis"
+  },
+  {
+    "question_id": "S0.2",
+    "section": "0. Cover",
+    "question": "What is the entity classification and review type?",
+    "answer": "Existing to Bank, Periodic Review, Assessment Type: Review, CRQ Version 3",
+    "difficulty": "medium",
+    "comments": "",
+    "source": "CRA Manual Analysis"
+  },
+  {
+    "question_id": "S6.1",
+    "section": "6. Outcome",
+    "question": "What is Shell's overall CRA score and BRAG rating?",
+    "answer": "CRA score is 57.22 with RED BRAG rating",
+    "difficulty": "easy",
+    "comments": "",
+    "source": "CRA Manual Analysis"
+  },
+  {
+    "question_id": "S6.2",
+    "section": "6. Outcome",
+    "question": "What are the individual section scores compared to sector averages?",
+    "answer": "Gross Physical Risk: 0.650 vs 0.650. Physical Adaptation: 0.450 vs 0.390. Gross Transition Risk: 0.197 vs 0.360. Credible Transition Plan: 0.992 vs 0.690",
+    "difficulty": "hard",
+    "comments": "",
+    "source": "CRA Manual Analysis"
+  },
+  {
+    "question_id": "S6.3",
+    "section": "6. Outcome",
+    "question": "Why did the BRAG rating change from AMBER to RED?",
+    "answer": "Due to more accurate approach assessing the value chain — whole supply chain including Upstream Exploration and Production was taken into consideration",
+    "difficulty": "hard",
+    "comments": "",
+    "source": "CRA Manual Analysis"
+  },
+  {
+    "question_id": "S7.1",
+    "section": "7. Risk Triggers",
+    "question": "What physical risk trigger was identified and what is the monitoring frequency?",
+    "answer": "Operating locations not representative. Frequency: 9 months. Track receipt of operating location address",
+    "difficulty": "medium",
+    "comments": "",
+    "source": "CRA Manual Analysis"
+  },
+  {
+    "question_id": "X1",
+    "section": "Cross-source",
+    "question": "What was Shell's total CFFO in 2023 and how was it distributed?",
+    "answer": "$54 billion CFFO. $23 billion shareholder returns (42% of CFFO): $8B dividends + $15B buybacks",
+    "difficulty": "hard",
+    "comments": "",
+    "source": "CRA Manual Analysis"
+  },
+  {
+    "question_id": "X2",
+    "section": "Cross-source",
+    "question": "What impairment risk does Shell face under IEA NZE scenario?",
+    "answer": "IG assets show $15-20B lower recoverable. Upstream $3-5B lower. Products $3-4B lower vs carrying amounts",
+    "difficulty": "hard",
+    "comments": "",
+    "source": "CRA Manual Analysis"
+  },
+  {
+    "question_id": "X3",
+    "section": "Cross-source",
+    "question": "What is Shell's NCI and Paris alignment approach?",
+    "answer": "NCI was 74 gCO2e/MJ in 2023, 6.3% reduction from 2016. Target 15-20% by 2030. Uses IPCC AR6 1.5C C1/C2 scenarios",
+    "difficulty": "hard",
+    "comments": "",
+    "source": "CRA Manual Analysis"
+  },
+  {
+    "question_id": "X4",
+    "section": "Cross-source",
+    "question": "What is Shell's R&D expenditure on decarbonisation?",
+    "answer": "Total R&D $1,287 million in 2023. Decarbonisation: $628 million (49% of total), up from 41% in 2022",
+    "difficulty": "hard",
+    "comments": "",
+    "source": "CRA Manual Analysis"
+  }
+]
